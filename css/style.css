@@ -1,0 +1,25 @@
+#body{
+    @import url((https://fonts.google.com/specimen/Outfit));
+    background-color: hsl(212, 45%, 89%);
+    
+}
+
+.white{
+    background-color: hsl(0, 0%, 100%);
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;    
+    border-radius: 20px;
+}
+
+
+
+p{
+    font-size: 15px;
+}
+
+img{
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+}
